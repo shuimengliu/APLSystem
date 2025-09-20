@@ -22,7 +22,7 @@ public class MainView extends JFrame {
 		user.setId("1001");
 		user.setUserName("user");
 		user.setNumber("1001");
-		user.setCharacter("学生");
+		user.setCharacter("辅导员");
 		new MainView(user);
 	}
 
